@@ -1,0 +1,1 @@
+!function(o){"use strict";o(function(){o("#st-accordion").accordion(),o("#st-accordion-two").accordion({oneOpenedItem:!0}),o("#st-accordion-three").accordion({oneOpenedItem:!0,open:0}),o("#st-accordion-four").accordion({oneOpenedItem:!0,open:0}),o("#st-accordion-five").accordion({open:0})})}(jQuery);
